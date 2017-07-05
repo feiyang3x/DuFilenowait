@@ -1,0 +1,42 @@
+GET http://dufile.com/downcode.php HTTP/1.1
+Host: dufile.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3104.0 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://dufile.com/down/c6b55ba5f37f88c3.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: PHPSESSID=0os2g6op33u4p954ufnmip5jm0
+Content-Length: 0
+
+
+POST http://dufile.com/downcode.php HTTP/1.1
+Host: dufile.com
+Connection: keep-alive
+Content-Length: 39
+Accept: text/plain, */*; q=0.01
+Origin: http://dufile.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3104.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Referer: http://dufile.com/down/c6b55ba5f37f88c3.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: PHPSESSID=0os2g6op33u4p954ufnmip5jm0
+
+Request Body
+action=yz&id=c6b55ba5f37f88c3&code=验证码
+
+
+
+GET /dd.php?file_key=b67528347f502c58&p=1 HTTP/1.1: 
+Host: dufile.com
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3104.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://dufile.com/down/b67528347f502c58.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: PHPSESSID=0os2g6op33u4p954ufnmip5jm0
+Content-Length: 0
